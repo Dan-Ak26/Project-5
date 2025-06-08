@@ -1,6 +1,6 @@
-# 📊 Exploratory Data Analysis — Project 5
+# 📊 Exploratory Data Analysis — Project 6
 
-This repository contains the results of **Project 5** from the [Johns Hopkins University Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science),
+This repository contains the results of **Project 6** from the [Johns Hopkins University Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science),
 focused on exploratory data analysis using household power consumption data.
 
 ## 📁 Files
